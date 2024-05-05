@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning *https://todo-list-1924.netlify.app/*
 
-- 👨‍💻 All of my projects are available at [https://mycalculator7141.netlify.app/](https://mycalculator7141.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mycalculator7141.netlify.app/](https://sidcupfamilygolf21.netlify.app/)
 
 - 📫 How to reach me *MuhammadRayyan4848@gmail.com*
 
-- 📄 Know about my experiences [https://todo-list-1924.netlify.app/](https://todo-list-1924.netlify.app/)
+- 📄 Know about my experiences [https://todo-list-1924.netlify.app/](https://gymweb78.netlify.app/)
 
 - ⚡ Fun fact *I think I am funny😉*
 
