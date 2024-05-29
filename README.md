@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,github,ai,vscode,nodejs,figma,git,html,css,js, ps,react,tailwind" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,github,ai,vscode,nodejs,figma,git,html,css,js,ps,react,tailwind" alt="My Skills">
 </p>
 
 <h3 align="left">My Github Overview:</h3>
