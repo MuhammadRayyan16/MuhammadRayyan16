@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rayyan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyan7878&label=Profile%20views&color=0e75b6&style=flat" alt="rayyan7878" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyan7878&label=Profile%20views&color=0e75b6&style=flat" alt="rayyan7878" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayyan7878" alt="rayyan7878" /></a> </p><hr>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuhammadRayyan16" alt="rayyan7878" /></a> </p><hr>
 
 - 🌱 I’m currently learning *https://gym78.netlify.app/*
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [(https://gymweb78.netlify.app/)](https://gymweb78.netlify.app/)
 
-- ⚡ Fun fact _I think I am funny😉_
+- ⚡ Fun fact \_I think I am funny😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,10 +23,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,css,figma,git,html,js,ps,react,tailwind)</p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,css,figma,git,html,js,ps,react,tailwind" alt="My Skills">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayyan7878&show_icons=true&locale=en&layout=compact" alt="rayyan7878" /></p>
+<h3 align="left">My Github Overview:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadRayyan16&show_icons=true&locale=en&layout=compact" alt="MuhammadRayyan16" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rayyan7878&show_icons=true&locale=en" alt="rayyan7878" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadRayyan16&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayyan7878&" alt="rayyan7878" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRayyan16&" alt="MuhammadRayyan16" /></p>
