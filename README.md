@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [(https://gymweb78.netlify.app/)](https://gymweb78.netlify.app/)
 
-- ⚡ Fun fact _I think I am funny😉_
+- ⚡ Fun fact _I think I am funny😉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
