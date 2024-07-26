@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning *https://gym78.netlify.app/*
 
-- 👨‍💻 All of my projects are available at [https://sidcupfamilygolf21.netlify.app/](https://sidcupfamilygolf21.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rayyanfolio.netlify.app/](https://rayyanfolio.netlify.app/)
 
 - 📫 How to reach me *MuhammadRayyan4848@gmail.com*
 
