@@ -38,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadRayyan16&show_icons=true&locale=en" alt="MuhammadRayyan16" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadRayyan16&" alt="MuhammadRayyan16" /></p>
+
+<p align="center">
+ <img width="1000" src="./github-snake.svg" alt="snake"/>
+</p>
