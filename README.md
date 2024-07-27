@@ -15,8 +15,6 @@
 
 - 📫 How to reach me *MuhammadRayyan4848@gmail.com*
 
-- 📄 Know about my experiences [(https://gymweb78.netlify.app/)](https://gymweb78.netlify.app/)
-
 - ⚡ Fun fact \_I think I am funny😉
 
 
