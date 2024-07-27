@@ -9,7 +9,7 @@
 
 - 🧑‍🏫 My Teacher: **[AhmedrAshraf](https://github.com/AhmedrAshraf)**
 
-- 🌱 I’m currently learning *https://gym78.netlify.app/*
+- 🌱  I’m currently learning React.js !!!
 
 - 👨‍💻 All of my projects are available at [https://rayyanfolio.netlify.app/](https://rayyanfolio.netlify.app/)
 
