@@ -11,7 +11,7 @@
 
 - 🌱  I’m currently learning React.js !!!
 
-- 👨‍💻 All of my projects are available at [https://rayyanfolio.netlify.app/]([https://rayyandev.vercel.app/])
+- 👨‍💻 All of my projects are available at **[Portfolio](https://rayyandev.vercel.app/)**
 
 - 📫 How to reach me *MuhammadRayyan4848@gmail.com*
 
