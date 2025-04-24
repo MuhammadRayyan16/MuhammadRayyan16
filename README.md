@@ -8,7 +8,7 @@
 
 - 🧑‍🏫 My Teacher: **[AhmedrAshraf](https://github.com/AhmedrAshraf)**
 
-- 🌱  I’m currently learning React.js !!!
+- 🌱  I’m currently learning Backend Development !!!
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rayyandev.vercel.app/)**
 
