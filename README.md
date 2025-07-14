@@ -6,8 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayyan7878&label=Profile%20views&color=0e75b6&style=flat" alt="rayyan7878" /> </p>
 
 
-- 🧑‍🏫 My Teacher: **[AhmedrAshraf](https://github.com/AhmedrAshraf)**
-
 - 🌱  I’m currently learning Backend Development !!!
 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rayyandev.vercel.app/)**
